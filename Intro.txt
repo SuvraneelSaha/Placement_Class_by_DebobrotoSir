@@ -5,4 +5,34 @@ Topics to Learn
 1] DSA
 2] JAVA
 3] OS
-4] DBMS 
+4] DBMS
+
+hiring process
+1] APTI
+2] Programming
+
+chapters
+-->
+starting process
+if
+for
+array
+matrix
+function
+recursion
+string
+sorting
+oops
+
+Face to face round
+hr related questions
+full confidence
+
+
+Requirement
+0 talent needed
+0 memory cause we will forget everything in the matrix
+just hard work
+ROCK LEE
+I dont know when to give up
+
