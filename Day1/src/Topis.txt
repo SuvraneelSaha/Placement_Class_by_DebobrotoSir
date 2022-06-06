@@ -1,0 +1,6 @@
+numeric
+type casting
+pow function
+sqare root function - Math.sqrt
+Remainder %
+Math.max function
