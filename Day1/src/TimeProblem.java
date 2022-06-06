@@ -17,4 +17,10 @@ public class TimeProblem {
 
     }
 }
-// 100
+// 10000 -- input in seconds
+
+// rajanya's logic
+
+// 10000 / 3600 --> 2 hours
+// 2800 / 60 --> 46 mins
+// 2800 - 2760 = 40 seconds

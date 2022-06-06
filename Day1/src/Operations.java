@@ -11,3 +11,7 @@ public class Operations {
         System.out.println(c);
     }
 }
+// type casting
+// from higher to lower and lower to higher are the two types of type casting
+// higher to lower automatically --> automatic type casting
+// but lower to higher -- type casting

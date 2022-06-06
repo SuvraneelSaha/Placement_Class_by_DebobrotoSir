@@ -4,3 +4,10 @@ pow function
 sqare root function - Math.sqrt
 Remainder %
 Math.max function
+time problem
+
+
+
+points -
+it's all practice no talent needed . fullstop.
+
