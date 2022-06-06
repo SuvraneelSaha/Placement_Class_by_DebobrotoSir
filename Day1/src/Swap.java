@@ -13,4 +13,4 @@ public class Swap {
 // Swapping is important
 // refer to the image for understanding
 // right side precedence
-// right side var or entity will be stored to the left side's var and entity 
+// right side var or entity will be stored to the left side's var and entity
