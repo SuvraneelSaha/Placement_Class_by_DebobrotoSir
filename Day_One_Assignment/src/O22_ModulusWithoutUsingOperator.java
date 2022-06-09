@@ -17,7 +17,7 @@ public class O22_ModulusWithoutUsingOperator {
         int b = in.nextInt(); // initialization
 
         int quotient = a / b;
-        //int rem; // declaration
+        // initialization
 
         int rem = 0;
         if (a > quotient * b) {
