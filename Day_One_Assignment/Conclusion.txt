@@ -1,0 +1,13 @@
+Late submission ;)
+Wasn't able to solve the pattern problem
+
+things to revise from the question set
+
+1] bank note
+2] time problem  - seconds given -> find out hours , mins , seconds from it
+3] timing1 + timing 2 = how many hours , mins , second
+4]
+
+
+things to Upskill -
+Pattern solving -_- 
