@@ -1,0 +1,17 @@
+Conditionals statements
+
+enjoy the reasoning and learn how to code
+
+implementing would be easy when you know the hard code part of logic and understanding of
+of the things that work
+
+Know the fundamentals
+
+
+Conditional Operators  -
+1] ==
+2] !=
+3] >
+4] >=
+5] <
+6] <=
