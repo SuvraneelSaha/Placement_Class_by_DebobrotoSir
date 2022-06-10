@@ -41,3 +41,28 @@ public class CollegeAdmission2 {
 // but as a conclusion there is no difference
 // but in case of situations
 // nested if supremacy
+
+
+// why fb ?
+// fb track everything
+// cat food experiment fb
+// data selling is the only way
+//
+
+// the reason we use computers even we have brain is that
+// we need computation power
+// blazingly fast computing power
+
+// fb shuts down ai chatbot
+//created their own life
+
+// 10 years challenge -- was done by evil
+
+// fb analytica
+
+// bash scripting -- very important for server
+
+// jackpot joy game
+
+
+
