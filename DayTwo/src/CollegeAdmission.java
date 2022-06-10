@@ -44,3 +44,7 @@ public class CollegeAdmission {
 // ie indentation is very important
 // but in case of java there is presence of brackets so for this reason we dont need indentation
 
+
+// love your code or else it wont be a love story
+
+
