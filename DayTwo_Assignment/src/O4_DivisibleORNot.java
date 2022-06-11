@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class O1_MaxofTwonums {
+public class O4_DivisibleORNot {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("please enter the 1st number");
@@ -18,8 +18,13 @@ public class O1_MaxofTwonums {
         }
         int b = in.nextInt();
 
-        System.out.printf("the maximum between %d and %d is %d",a,b,Math.max(a,b));
-
-
+        if(a%b==0)
+        {
+            System.out.println("Divisible");
+        }
+        else
+        {
+            System.out.println("NA");
+        }
     }
 }
