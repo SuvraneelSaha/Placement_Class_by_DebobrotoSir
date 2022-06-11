@@ -1,4 +1,5 @@
 1]ask sir do we need to use and ending else statement in case of else if ladder or not
+or we could just simply use else if statement with a previous if statement
 
 
 2] what are java libraries ?
