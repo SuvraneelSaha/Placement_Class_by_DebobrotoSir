@@ -18,7 +18,7 @@ public class O5A_SingleDigitORNot {
         // so now we have taken the absolute value and also have converted it into a string
         // Then we are taking the length of the string (the int itself - but string as it has been converted to  string )
         // then we are checking that if the length of the string is >= 2
-        
+
         if(isTwoDigit==true)
         {
             System.out.println("More than 1 digit");
