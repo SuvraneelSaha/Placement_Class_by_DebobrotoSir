@@ -1,0 +1,7 @@
+1]ask sir do we need to use and ending else statement in case of else if ladder or not
+
+
+2] what are java libraries ?
+
+3] what are third parties libraries and included libraries
+
