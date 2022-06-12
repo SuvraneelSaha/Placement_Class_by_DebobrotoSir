@@ -1,0 +1,12 @@
+1] Do we need to use an else statement with an else if statement
+2] as i have seen that without using an else statement doesn't gives any errors
+
+3] Q 17 - cant understand
+
+4] Q 12 - Found only the discriminant not the roots
+so made a mistake there
+
+5] what are libraries
+
+6] what can be done with the help of JAVA as in development
+
