@@ -81,3 +81,4 @@ public class O7_TypeofTriangleAngle {
 // ex - a - 120
 // b - 40
 // c - 20
+// always check the condition if the traingle a+b+c == 180 or not 
