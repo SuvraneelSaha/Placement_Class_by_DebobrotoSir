@@ -1,0 +1,14 @@
+review of the 1st assignment
+
+27] hours mins , secs question
+
+we need to make sure the computer learn in most efficient possible way
+we need to predict the outcome and the steps involved , the steps may be not full but it should be some iterations steps ahead
+
+make sure you dont time limit error
+
+the logic of the 27 done by you is ok
+no need to worry
+
+
+14]

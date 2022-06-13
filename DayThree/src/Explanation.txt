@@ -1,0 +1,74 @@
+decimal 0-9
+
+- - min 0 max - 99    total - 100   10^2 = 100
+
+_ _ _ min 0 max 999 total- 1000     10^3 = 1000
+
+Binary
+
+0-1
+
+_ _ min 0 max 3        total 4   2^2
+
+_ _ _ min 0 max 7      total 8  2^3
+
+000
+001
+010
+011
+100
+101
+110
+111
+
+
+therefor -  total num of nums-> d^p  max num-> d^p -1
+
+
+byte   8 bits  1byte
+short  16 bits 2 byte
+int    32 bits  4 byte
+long   64 bits  8 byte
+
+_(first box will be +-) _ _ _ _ _ _ _
+
+byte - max --> 2^7-1  ie from 0 to 127
+total - 2^7 =  128
+
+in case of -ve -->  -1 to -128
+
+so the actual range is from -128 to 127
+
+
+INT
+
+32 bits -
+so total num of numbers = 2^31
+max = 2^31 -1
+
+Problem - Index out of bounds [Q]
+
+
+LONG
+
+64 bits
+total - 2^64
+max - 2^64-1
+
+
+lossy conversion can be solved by type casting from higher to lower data type
+but during type casting the element or the num when will be converted willl be cut from the front
+
+ie 10000000 --- it will become  00000
+the num is 256
+
+
+type casting - implicit - ie automatic putting the small data type into a large data type
+explicit - putting the large data type into a small datatype
+for kata chata we remove the first lying bits
+otherwise if we dont do the type casting
+in the case of explicit then there would be lossy conversion error
+
+
+Bank note question needed to be done using only if
+
