@@ -75,7 +75,7 @@ public class O7_TypeofTriangleAngle {
         {
             System.out.println("Not valid triangle");
         }
-        System.out.println("Not valid Triangle");
+        System.out.println("Not valid Triangle");// this needs to be checked in the first place 
     }
 }
 // ex - a - 120
