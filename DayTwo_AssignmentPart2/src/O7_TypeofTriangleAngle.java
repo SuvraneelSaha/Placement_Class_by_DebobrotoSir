@@ -75,9 +75,10 @@ public class O7_TypeofTriangleAngle {
         {
             System.out.println("Not valid triangle");
         }
-        System.out.println("Not valid Triangle");
+        System.out.println("Not valid Triangle");// this needs to be checked in the first place 
     }
 }
 // ex - a - 120
 // b - 40
 // c - 20
+// always check the condition if the traingle a+b+c == 180 or not 
