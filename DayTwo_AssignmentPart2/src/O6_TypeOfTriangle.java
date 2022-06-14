@@ -36,3 +36,5 @@ public class O6_TypeOfTriangle {
         }
     }
 }
+// wrong 
+// edge case error 
