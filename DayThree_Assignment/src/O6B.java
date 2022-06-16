@@ -6,7 +6,8 @@ public class O6B {
         while (true) // boolean expression needed
         {
             System.out.println("Enter the sides of Triangle");
-            try //this statement allows us to define a block of code which is prone to errors or to be tested for errors  while it is being executed
+            try //this statement allows us to define a block of code which
+            // is prone to errors or to be tested for errors  while it is being executed
             {
                 int a=in.nextInt();
                 int b=in.nextInt();
@@ -38,13 +39,16 @@ public class O6B {
 
                 }
             }
-            catch(Exception e) // this catch statement allows defines a block of code to be executed when an error occurs in the try block
+            catch(Exception e) // this catch statement allows to  define a block
+            // of code to be executed when an error occurs in the try block
                     // these try and catch statements goes in pair
             {
                 System.out.println("Error: enter a number!");
 
             }
             System.out.println("for stopping 5 ");
+            System.out.println("For Continuing 0");
+
             int fun = in.nextInt();
             if(fun==5)
             {

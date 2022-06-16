@@ -34,7 +34,7 @@ public class O2_VoterIDCardCondition {
             {
                 System.out.println("Not valid number entered");
             }
-
+// Voter card
 
 
     }
