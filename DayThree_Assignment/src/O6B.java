@@ -39,7 +39,7 @@ public class O6B {
                 }
             }
             catch(Exception e) // this catch statement allows defines a block of code to be executed when an error occurs in the try block
-                    // these try and catch statements goes in pair 
+                    // these try and catch statements goes in pair
             {
                 System.out.println("Error: enter a number!");
 
