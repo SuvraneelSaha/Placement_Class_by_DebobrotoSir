@@ -46,37 +46,47 @@ public class O13_BrickCount {
             System.out.println("Impossible1");
         }
 
-        if(brick_1m ==0)
-        {
-            if(brick_5m>0)
-            {
+//        if(brick_1m ==0)
+//        {
+//            if(brick_5m>0)
+//            {
+//
+//                if(wall/5<=brick_5m)
+//                {
+//                    System.out.println("Possible1");
+//
+//                }
+//                else
+//                {
+//                    System.out.println("Impossible");
+//                }
+//
+//
+//            }
+//            else
+//            {
+//                System.out.println("Impossible1");
+//            }
+//        }
+//
+//        if(brick_5m==0)
+//        {
+//            if(brick_1m>0)
+//            {
+//                if(brick_1m>wall)
+//                {
+//                    System.out.println("Possible2");
+//                }
+//            }
+//            else
+//            {
+//                System.out.println("Impossible2");
+//            }
+//        }
 
-                if(wall/5==0)
-                {
-                    if(brick_5m)
-                    System.out.println("Possible1");
-                }
-            }
-            else
-            {
-                System.out.println("Impossible1");
-            }
-        }
-
-        if(brick_5m==0)
-        {
-            if(brick_1m>0)
-            {
-                if(brick_1m>wall)
-                {
-                    System.out.println("Possible2");
-                }
-            }
-            else
-            {
-                System.out.println("Impossible2");
-            }
-        }
+        // to much complex thinking and approach needs to change ASAP
+        // think simple , just minimum work
+        // dont be egoistic
 
 
 
