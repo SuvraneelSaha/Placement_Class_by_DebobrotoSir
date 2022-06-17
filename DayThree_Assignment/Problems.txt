@@ -1,1 +1,10 @@
 Can we put any instructions or line of code in between the if else statements or in between if  else if ladder
+
+question no. 13 logic and edge test cases
+
+question no. 14 logic and edge test cases
+
+nested if else problem
+
+if any of the statements if left how we can join it with all the other statements
+
