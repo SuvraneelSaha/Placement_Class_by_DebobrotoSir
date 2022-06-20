@@ -1,10 +1,11 @@
 Can we put any instructions or line of code in between the if else statements or in between if  else if ladder
+// --- > not allowed in between
+question no. 13 logic and edge test cases - solved
 
-question no. 13 logic and edge test cases
+question no. 14 logic and edge test cases - solved
 
-question no. 14 logic and edge test cases
-
-nested if else problem
+nested if else problem - solved
 
 if any of the statements if left how we can join it with all the other statements
 
+// its your fault in constructing the logic that there is a condition left
