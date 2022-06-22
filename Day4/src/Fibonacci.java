@@ -15,3 +15,5 @@ public class Fibonacci {
     }
 }
 // a will be treated as number of terms
+// check if correct or not
+// seems like it is wrong
