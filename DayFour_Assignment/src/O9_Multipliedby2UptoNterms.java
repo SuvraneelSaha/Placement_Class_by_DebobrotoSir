@@ -13,7 +13,7 @@ public class O9_Multipliedby2UptoNterms {
             // if this condition is not present then it will iterate forever and will turn it into an infinite loop
             // the increment part is necessary
             // the number of initializers must be == to the number of increments
-            
+
         }
     }
 }
