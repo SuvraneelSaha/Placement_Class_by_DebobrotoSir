@@ -13,3 +13,4 @@ public class O17_OneOrZero {
         }
     }
 }
+// 1 0 1 0 1 0
