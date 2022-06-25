@@ -1,12 +1,13 @@
-public class O3 {
+public class O8 {
     public static void main(String[] args) {
-            Pattern3(4);
+        Pattern8(4);
     }
-    public static void Pattern3(int n)
+    public static void Pattern8(int n)
     {
-        for (int row = n; row >=1 ; row--)
+        for (int row = 1; row <=n ; row++)
         {
-            for (int col = n; col >=row ; col--)
+
+            for (int col = row; col <=n ; col++)
             {
                 System.out.print(col +" ");
             }
