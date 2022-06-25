@@ -1,16 +1,17 @@
-public class O1 {
+public class O2 {
     public static void main(String[] args) {
-    Pattern1(4);
+        Pattern2(4);
     }
-    public static void Pattern1(int n)
+    static void Pattern2(int n)
     {
         for (int row = 1; row <=n ; row++)
         {
-            for (int col = 1; col<=row ; col++)
+            for (int col = row; col >=1 ; col--)
             {
-                System.out.print(col +" ");
+                System.out.print(col + " ");
             }
             System.out.println();
+
         }
     }
 }
