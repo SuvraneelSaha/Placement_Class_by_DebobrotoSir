@@ -10,11 +10,24 @@ public class O10 {
             in.next();
         }
         int n = in.nextInt();
+        System.out.printf("The sum of the Odd Positions of the Number %d is %d ",n,OddPositionSum(n));
 
     }
-    static void OddPositionSum(int n)
+    static int OddPositionSum(int n)
     {
-
+        int sum = 0;
+        int count = Length(n);
+        while (n>0)
+        {
+            int rem = n%10;
+            if(count%2!=0)
+            {
+                sum = sum+rem;
+            }
+            n=n/10;
+            count--;
+        }
+        return sum;
     }
 
     static int Length(int n)
