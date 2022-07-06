@@ -5,15 +5,18 @@ public class O10 {
     // Count of the Numbers present in an Array
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        // size
         System.out.println("please enter the size of the array :");
         int n = in.nextInt();
         int[] arr = new int[n];
+        // Scanning
         System.out.println("please enter the elements :");
         for (int i = 0; i <arr.length; i++)
         {
             arr[i] = in.nextInt();
         }
         // scanning done
+        // Target element
         System.out.println("please enter the target element :");
         int target = in.nextInt();
         System.out.println("OG " + Arrays.toString(arr));
@@ -30,17 +33,26 @@ public class O10 {
             }
 
         }
+        boolean present = false;
        for (int element : arr)
        {
            if(element == target)
            {
-               System.out.println("Target Present");
+               present = true;
+               break;
            }
            else
            {
-               System.out.println("Target not present ");
+               present = false;
+               break;
            }
        }
+       if(present == false)
+       {
+           System.out.printf("%d is not Found ",target);
+       }
+        System.out.println();
+
 
         System.out.printf("Count of %d is %d",target,count);
 
