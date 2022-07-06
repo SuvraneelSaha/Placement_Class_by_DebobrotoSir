@@ -1,16 +1,12 @@
 import java.util.Arrays;
 import java.util.Scanner;
+// Another Mistake
+// Unable to Find the Error or the point where the logic error is taking place
 
-// A classic mistake of how not to reverse an Array
-// the Swapping wont take place cause the same Array elements will be stored
-
-
-public class O7 {
-    //if the size of the array is 5 and the array is like below:
-    // 10 20 30 40 50
-    //Then it will'store the array in reverse order. The positions of the array elements will be changed
-    // 50 40 30 20 10
+public class O7A {
     public static void main(String[] args) {
+        // A classic mistake of how not to reverse an Array
+// the Swapping wont take place cause the same Array elements will be stored
         Scanner in = new Scanner(System.in);
 
 
@@ -26,10 +22,11 @@ public class O7 {
         System.out.println("OG Array "+ Arrays.toString(arr));
         for (int i = 0; i <n ; i++)
         {
-            arr[i] = arr[n-1-i]; // this wont work
+            int temp = arr[i];
+            arr[i] = arr[n-1-i];
+            arr[n-1-i] = temp;
 
         }
-        System.out.println("New Array "+Arrays.toString(arr));
-        
+        System.out.println("New Reversed Array "+Arrays.toString(arr));
     }
 }
