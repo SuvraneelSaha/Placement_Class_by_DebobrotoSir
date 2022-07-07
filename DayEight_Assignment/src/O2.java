@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class O2 {
     public static void main(String[] args) {
+        // Enter the size of an array and then find the sum of those n numbers.
         Scanner in = new Scanner(System.in);
 
 

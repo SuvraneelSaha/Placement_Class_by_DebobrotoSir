@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+//  Enter the size and elements of an array and then find the middle most value.
 public class O11 {
     //Enter the size and elements of an array and then find the middle most value.
     public static void main(String[] args) {

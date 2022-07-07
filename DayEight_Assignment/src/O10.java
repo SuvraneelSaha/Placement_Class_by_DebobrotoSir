@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Enter the size and elements of an array. After that enter a search value and find the frequency
+//of that value
 public class O10 {
     // Count of the Numbers present in an Array
     public static void main(String[] args) {
@@ -44,7 +45,7 @@ public class O10 {
            else
            {
                present = false;
-               break;
+
            }
        }
        if(present == false)

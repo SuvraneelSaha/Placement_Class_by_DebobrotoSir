@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class O1 {
+    // Enter 5 elements of an array and find the sum of those.
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[] arr = new int[5];

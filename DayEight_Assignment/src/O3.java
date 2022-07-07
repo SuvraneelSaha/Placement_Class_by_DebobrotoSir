@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class O3 {
     public static void main(String[] args) {
+        // Enter the size and elements of an array and find the largest element
         Scanner in = new Scanner(System.in);
 
 

@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// Enter the size and elements of an array. After that enter a search value and find if the value is
+//present in the array or not. If yes, find the places.
 public class O9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

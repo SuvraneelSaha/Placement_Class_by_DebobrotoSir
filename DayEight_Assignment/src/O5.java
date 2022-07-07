@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class O5 {
     public static void main(String[] args) {
+        // Enter the size and elements of an array and find the average, largest,smallest and the sum
+        //together using a single loop.
         Scanner in = new Scanner(System.in);
 
 
