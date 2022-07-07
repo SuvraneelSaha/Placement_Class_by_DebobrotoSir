@@ -16,8 +16,8 @@ public class O12 {
 
     }
 
-    static boolean IsMagicNumbers(int n)
-    {
-
-    }
+//    static boolean IsMagicNumbers(int n)
+//    {
+//
+//    }
 }
