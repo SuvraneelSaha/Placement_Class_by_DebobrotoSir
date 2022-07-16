@@ -2,25 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DayTwo_Assignment/2.2NestedIF.iml" filepath="$PROJECT_DIR$/DayTwo_Assignment/2.2NestedIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_Assignment_Starting_IF/2.2NestedIF.iml" filepath="$PROJECT_DIR$/Day2_Assignment_Starting_IF/2.2NestedIF.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1/Day1.iml" filepath="$PROJECT_DIR$/Day1/Day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1_Assignment_Basic_Questions/Day1_Assignment_Basic_Questions.iml" filepath="$PROJECT_DIR$/Day1_Assignment_Basic_Questions/Day1_Assignment_Basic_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2/Day2.iml" filepath="$PROJECT_DIR$/Day2/Day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_AssignmentPart2_Nested_IF/Day2_AssignmentPart2_Nested_IF.iml" filepath="$PROJECT_DIR$/Day2_AssignmentPart2_Nested_IF/Day2_AssignmentPart2_Nested_IF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_Assignment_Starting_IF/Day2_Assignment_Starting_IF.iml" filepath="$PROJECT_DIR$/Day2_Assignment_Starting_IF/Day2_Assignment_Starting_IF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3/Day3.iml" filepath="$PROJECT_DIR$/Day3/Day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3_Assignment_Composite_IF/Day3_Assignment_Composite_IF.iml" filepath="$PROJECT_DIR$/Day3_Assignment_Composite_IF/Day3_Assignment_Composite_IF.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day4/Day4.iml" filepath="$PROJECT_DIR$/Day4/Day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day4_Assignment_For_Series/Day4_Assignment_For_Series.iml" filepath="$PROJECT_DIR$/Day4_Assignment_For_Series/Day4_Assignment_For_Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day5/Day5.iml" filepath="$PROJECT_DIR$/Day5/Day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day5_Assignment_For_Pattern/Day5_Assignment_For_Pattern.iml" filepath="$PROJECT_DIR$/Day5_Assignment_For_Pattern/Day5_Assignment_For_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day6/Day6.iml" filepath="$PROJECT_DIR$/Day6/Day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day6_Assignment_For_Applications/Day6_Assignment_For_Applications.iml" filepath="$PROJECT_DIR$/Day6_Assignment_For_Applications/Day6_Assignment_For_Applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day7_Assignment_For_SpecialNumbers/Day7_Assignment_For_SpecialNumbers.iml" filepath="$PROJECT_DIR$/Day7_Assignment_For_SpecialNumbers/Day7_Assignment_For_SpecialNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day7_Assignment_SwitchCases/Day7_Assignment_SwitchCases.iml" filepath="$PROJECT_DIR$/Day7_Assignment_SwitchCases/Day7_Assignment_SwitchCases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day8_Assignment_1D_Array/Day8_Assignment_1D_Array.iml" filepath="$PROJECT_DIR$/Day8_Assignment_1D_Array/Day8_Assignment_1D_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day8_Assignment_For_SpecialNumbers/Day8_Assignment_For_SpecialNumbers.iml" filepath="$PROJECT_DIR$/Day8_Assignment_For_SpecialNumbers/Day8_Assignment_For_SpecialNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day9/Day9.iml" filepath="$PROJECT_DIR$/Day9/Day9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayEight_Assignment/DayEight_Assignment.iml" filepath="$PROJECT_DIR$/DayEight_Assignment/DayEight_Assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayEight_Assignment_ForSpecialNumbers/DayEight_Assignment_ForSpecialNumbers.iml" filepath="$PROJECT_DIR$/DayEight_Assignment_ForSpecialNumbers/DayEight_Assignment_ForSpecialNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayFive/DayFive.iml" filepath="$PROJECT_DIR$/DayFive/DayFive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayFive_Assignment_For_Pattern/DayFive_Assignment_For_Pattern.iml" filepath="$PROJECT_DIR$/DayFive_Assignment_For_Pattern/DayFive_Assignment_For_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayFour_Assignment/DayFour_Assignment.iml" filepath="$PROJECT_DIR$/DayFour_Assignment/DayFour_Assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DaySeven_Assignment_For_SpecialNumbers/DaySeven_Assignment_For_SpecialNumbers.iml" filepath="$PROJECT_DIR$/DaySeven_Assignment_For_SpecialNumbers/DaySeven_Assignment_For_SpecialNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DaySeven_Assignment_SwitchCases/DaySeven_Assignment_SwitchCases.iml" filepath="$PROJECT_DIR$/DaySeven_Assignment_SwitchCases/DaySeven_Assignment_SwitchCases.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DaySix/DaySix.iml" filepath="$PROJECT_DIR$/DaySix/DaySix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DaySix_Assignment_For_Applications/DaySix_Assignment_For_Applications.iml" filepath="$PROJECT_DIR$/DaySix_Assignment_For_Applications/DaySix_Assignment_For_Applications.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayThree/DayThree.iml" filepath="$PROJECT_DIR$/DayThree/DayThree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayThree_Assignment/DayThree_Assignment.iml" filepath="$PROJECT_DIR$/DayThree_Assignment/DayThree_Assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayTwo/DayTwo.iml" filepath="$PROJECT_DIR$/DayTwo/DayTwo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayTwo_Assignment/DayTwo_Assignment.iml" filepath="$PROJECT_DIR$/DayTwo_Assignment/DayTwo_Assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DayTwo_AssignmentPart2/DayTwo_AssignmentPart2.iml" filepath="$PROJECT_DIR$/DayTwo_AssignmentPart2/DayTwo_AssignmentPart2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_One_Assignment/Day_One_Assignment.iml" filepath="$PROJECT_DIR$/Day_One_Assignment/Day_One_Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Placement_Class_by_DebobrotoSir.iml" filepath="$PROJECT_DIR$/.idea/Placement_Class_by_DebobrotoSir.iml" />
     </modules>
   </component>
