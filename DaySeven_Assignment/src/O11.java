@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class O11 {
     // Krishnamurti number
     // ex - 145 = 1! + 4! + 5! = 145 then it is a krishnamurti number
+    // if the number matches then it is true otherwise it is false 
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("please enter the number :");

@@ -1,5 +1,6 @@
 import java.util.Scanner;
 // Wap to find out composite number
+// a composite number is a number which is not prime
 public class O2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -10,6 +11,7 @@ public class O2 {
             System.out.println("Please enter a Number");
             in.next();
         }
+
         int n = in.nextInt();
         if(!isPrime(n))
         {
@@ -22,7 +24,7 @@ public class O2 {
 
 
     }
-    static boolean isPrime(int n)
+   public static boolean isPrime(int n)
     {
         if(n<2)
         {
