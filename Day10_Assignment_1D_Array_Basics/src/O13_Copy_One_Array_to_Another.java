@@ -1,6 +1,5 @@
-import java.util.ArrayList;
+
 import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class O13_Copy_One_Array_to_Another {
