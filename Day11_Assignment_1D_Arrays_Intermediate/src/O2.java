@@ -1,7 +1,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
-public class O1 {
+// Wap in which only print the unique elements
+// nothing elese
+// ex - 1 3 1
+// then the only unique element will be 3
+public class O2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Please enter the size of the Array:");
@@ -12,19 +15,24 @@ public class O1 {
             arr[i] = in.nextInt();
         }
         System.out.println(Arrays.toString(arr));
-        int count = 0;
-        for (int i = 0; i <arr.length ; i++) // this for loop is for selecting an element which will be compared
+        int i,j;
+
+        for ( i = 0 ; i<arr.length;i++)
         {
-            for (int j = i+1; j < arr.length ; j++)  // this for loop whill be comparing the element with its subsequent elements
-                // ie the elements which are lying ahead of that element
+
+            for ( j = 0; j < arr.length; j++)
             {
-                if(arr[i] == arr[j])
+
+                if(arr[i] == arr[j] && i!=j)
                 {
-                    count = count +1;
+
                     break;
                 }
             }
+            if(j==n)
+            {
+                System.out.print(arr[i] + " ");
+            }
         }
-        System.out.println("Total number of duplicate elements are "+count);
     }
 }
