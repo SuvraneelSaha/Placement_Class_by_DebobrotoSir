@@ -1,0 +1,136 @@
+// selection sort
+
+
+		for(int i=0;i<=a.length-2;i++)
+        {
+	        for(int j=i+1;j<=a.length-1;j++)
+	        {
+		        if(a[i]>a[j])
+		        {
+			        int temp=a[i];		a[i]=a[j];		a[j]=temp;
+		        }
+	        }
+        }
+
+
+// minpos
+
+			for(int i=0;i<=3;i++)
+        {   
+            int min=a[i];
+            int minpos=i;
+	        for(int j=i+1;j<=4;j++)
+	        {
+		        if(a[j]<min)
+		        {
+		            min=a[j];
+		            minpos=j;
+		        }
+			}
+			int temp=a[i];		a[i]=a[minpos];		a[minpos]=temp;
+        }
+		
+// bubble sort
+
+		for(int x=n-2;x>=0;x--)
+        {
+        	for(int j=0;j<=x;j++)
+	        {
+		        if(a[j]>a[j+1])
+		        {
+        			int temp=a[j];		a[j]=a[j+1];		a[j+1]=temp;
+		        }
+	        }
+        }
+
+// bubble sort - another code
+for(i=1;i<=n-1;i++)
+{
+	for(int j=0;j<=n-i-1;j++)
+	{
+		if(a[j]>a[j+1])
+		{
+			int temp=a[j];		a[j]=a[j+1];	a[j+1]=temp;
+		}
+	}
+}
+
+
+// intelligent bubble sort
+
+		for(int x=n-2;x>=0;x--)
+        {
+            int f=0;
+        	for(int j=0;j<=x;j++)
+	        {
+		        if(a[j]<a[j+1])
+		        {
+        			int temp=a[j];		a[j]=a[j+1];		a[j+1]=temp;    f=1;
+		        }
+	        }
+	        if(f==0)
+	        {
+	            break;
+	        }
+        }
+
+
+//insertion sort
+
+for(i=1;i<=n-1;i++)
+{
+	int val=a[i];
+	for(j=i-1;j>=0;j--)
+	{
+		if(a[j]>val)
+		{
+			a[j+1]=a[j];
+		}
+		else
+		{
+			break;
+		}	
+	}
+	a[j+1]=val;
+}
+
+
+// linear search
+
+	   int f=0;
+		for(i=0;i<=n-1;i++)
+        {
+            if(val==a[i])
+            {
+                f=1;
+            }
+        }
+		
+        if(f==1)
+            System.out.print("found ");
+        else
+            System.out.print("not found ");
+
+
+// binary search
+
+ int f=0;
+		int start=0;
+		int end=n-1;
+		while(start<=end)
+		{
+		    int middle=(start+end)/2;
+		    if(val==a[middle])
+		    {
+		        f=1;
+		        break;
+		    }
+		    else if(val>a[middle])
+		    {
+		        start=middle+1;
+		    }
+		    else
+		    {
+		        end=middle-1;
+		    }
+		}
