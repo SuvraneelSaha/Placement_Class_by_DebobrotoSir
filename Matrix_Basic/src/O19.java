@@ -25,18 +25,20 @@ public class O19 {
 
         }
         // sum of each column
-        for (int row = 0; row <arr.length ; row++)
+        for (int row = 0; row <c ; row++)
         {
            int sum = 0 ;
-            for (int col = 0; col <c ; col++)
+            for (int col = 0; col <r ; col++)
             {
 
                 sum = sum +  arr[col][row] ;
 
             }
-           
-                System.out.printf("The sum of the %d column is %d ",1,sum);
-                System.out.println();
+
+
+                System.out.printf("The sum of the %d column is %d ",row+1,sum);
+            System.out.println();
+
 
         }
 
