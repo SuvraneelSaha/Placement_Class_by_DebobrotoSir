@@ -34,6 +34,6 @@ public class O5 {
             System.out.println(Arrays.toString(row));
         }
 
-        System.out.println("the max element is "+min);
+        System.out.println("the min element is "+min);
     }
 }

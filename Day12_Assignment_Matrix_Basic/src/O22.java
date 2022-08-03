@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class O22 {
@@ -14,6 +15,11 @@ public class O22 {
                 arr[row][col] = in.nextInt();
 
             }
+        }
+
+        for(int[] row : arr)
+        {
+            System.out.println(Arrays.toString(row));
         }
         // identity matrix logic
        if(isIndentityMatrix(arr))
