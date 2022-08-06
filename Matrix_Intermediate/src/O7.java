@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 // upper right part of an Array :
-public class O6 {
+public class O7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Please enter the size of the row :");
@@ -31,7 +31,7 @@ public class O6 {
                //if((row == 0 && col==k) || (row == col && col ==k))
                 // this is what i constructed :)
                 // needs many many practice
-                
+
 
                 if(row<=col)
                 {
