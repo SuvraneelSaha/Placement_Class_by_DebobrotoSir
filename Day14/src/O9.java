@@ -1,5 +1,5 @@
 public class O9 {
-    // rudra's Question 
+    // rudra's Question
     public static void main(String[] args) {
         /*
         public class Main
