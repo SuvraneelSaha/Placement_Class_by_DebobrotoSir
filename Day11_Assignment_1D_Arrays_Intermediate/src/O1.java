@@ -15,7 +15,7 @@ public class O1 {
         int count = 0;
         for (int i = 0; i <arr.length ; i++) // this for loop is for selecting an element which will be compared
         {
-            for (int j = i+1; j < arr.length ; j++)  // this for loop whill be comparing the element with its subsequent elements
+            for (int j = i+1; j < arr.length ; j++)  // this for loop which will be comparing the element with its subsequent elements
                 // ie the elements which are lying ahead of that element
             {
                 if(arr[i] == arr[j])
