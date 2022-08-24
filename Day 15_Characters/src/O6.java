@@ -1,6 +1,8 @@
 public class O6 {
-    public static void main(String[] args) {
 
+    // printing all the characters ranging from 0 to 127
+
+    public static void main(String[] args) {
 
         for (int i = 0; i <= 127 ; i++) {
             //System.out.print(i + " ");

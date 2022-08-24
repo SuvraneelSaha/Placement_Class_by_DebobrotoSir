@@ -13,6 +13,8 @@ public class O14 {
     give your best
     and see how it changes you and your reality
 
+    DO HACKERANK AND LEETCODE PROBLEMS DAILY EVEN 1 IS ENOUGH IN THE BEGINNING !
+
 job change er somoy - you have to upgrade
 progress is the key
 

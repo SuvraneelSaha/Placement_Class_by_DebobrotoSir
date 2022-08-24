@@ -11,6 +11,11 @@ public class O2 {
         // 90 - Z
         // a - 97
         // z = 97+26
+        /*
+        for printing the ascii value of a character we need to convert it into int
+        using typecasting from character to integer
+
+         */
 
 
     }
