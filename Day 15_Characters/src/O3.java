@@ -7,6 +7,8 @@ public class O3 {
         System.out.println("enter a character:");
         char c = in.next().charAt(0);
         int a = (int)c;
+        //you cannot directly compare a number ie int with with int if the input is being taken as a character
+        // as it will compare the two values using ascii values
         // we are comparing the character using the type casting
         if((a>=65 && a<=90) || (a>=97 && a<=122))
             System.out.println("It is an alphabet"+a);

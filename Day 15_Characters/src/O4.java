@@ -9,7 +9,7 @@ public class O4 {
         // Ascii code of that character
         //
         if((c>='A' && c<='Z') || (c>=97 && c<=122)) // here we can also change the 97 to 'a' and 122 to 'z'
-            System.out.println("It is an alphabet");
+            System.out.println("It is an alphabet "+(int)c);
         else
             System.out.println("it is NOT an alphabet");
     }
