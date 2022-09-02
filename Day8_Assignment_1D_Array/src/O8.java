@@ -1,3 +1,7 @@
+
+// Wrong Code follow other codes 
+// needs refractoring 
+
 import java.util.Arrays;
 import java.util.Scanner;
 // Ascending order Binary Search
