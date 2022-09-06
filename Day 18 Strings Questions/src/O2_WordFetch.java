@@ -7,6 +7,8 @@ public class O2_WordFetch {
         WORD 1 : YEAR
         WORD 1 : 2022
 
+        this is not the correct way to do so but see the o/p so that we can understand where
+        it went wrong
 
          */
 

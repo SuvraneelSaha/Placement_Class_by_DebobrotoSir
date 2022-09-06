@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class O4 {
+public class O4_First_Letter_Maximize {
     public static void main(String[] args) {
         // first letter maximize
         // Ex - inDia

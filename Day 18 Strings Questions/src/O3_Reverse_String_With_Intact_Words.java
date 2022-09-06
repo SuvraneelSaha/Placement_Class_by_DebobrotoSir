@@ -1,4 +1,8 @@
-public class O3 {
+public class O3_Reverse_String_With_Intact_Words {
+    /*
+        HAPPY NEW YEAR 2022 i/p
+        2022 YEAR NEW HAPPY o/p
+     */
     public static void main(String[] args) {
         String s = "HAPPY NEW YEAR 2022";
         s=" "+s;
