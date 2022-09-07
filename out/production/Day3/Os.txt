@@ -1,0 +1,64 @@
+no. of zeros present in a number
+from 0 to that n
+ex - 225
+
+
+
+^ dont use this cause in some compilers there woulbe be an error
+
+its not mandatory to use an else statment with the if else if ladder
+
+
+Gross salary question
+
+0.2*b+ 0.5*b + b == gross salary
+
+dont need to know everything in depth
+but just do it
+no need to know everything . if question appers then just do it
+according to the problem
+
+
+O6_TypeOfTriangle.java  --> wrong in 2nd ass
+needs to fix
+
+the dangers of using if followed by another if statement
+
+follow the photo to see the catastrophic danger
+
+so for solving we need to use if - else
+or if else if ladder
+so dont use the if statements with another followed by if
+so we need to use if - else if ladder
+or if else
+
+
+
+PARKING LOT PRICE
+4 hours - 30 -- 10 +20 = 30
+7 HRS = 10+30+2*20 = 80
+
+if(h<=2)
+{
+b=10;
+}
+else if(h<=5)
+{
+b=10+(h-2)*10;
+}
+
+
+
+
+tax slab pricing
+
+in case of salary and
+electricity bill
+
+
+the else if  condition will not hit
+if the condition is not satisfied
+
+but if else is present it will act as the default statement
+
+ss with the month name regarding the fees
