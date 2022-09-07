@@ -1,5 +1,6 @@
 public class O10 {
     // good name
+    // o/p S.R.RAHUL
     public static void main(String[] args) {
         String s = "SUBHAM RAJANYA RAHUL";
 
