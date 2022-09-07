@@ -4,6 +4,9 @@ public class InterviewQuestion {
         total number of elements - 7
         i/p - 6 , 4 , 9 , 10 , 34,56,54
         sum = 4 + 10 + 54
+        first we will find the lowest element
+        then we will delete the elements which are residing beside the minimum element
+
         Capgemini Interview Question
          */
 
