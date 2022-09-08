@@ -22,6 +22,6 @@ public class O6 {
             }
 
         }
-        System.out.println("the number of vowels is "+countConsonants);
+        System.out.println("the number of Consonants is "+countConsonants);
     }
 }
