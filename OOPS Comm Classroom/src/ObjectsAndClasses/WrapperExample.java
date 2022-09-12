@@ -1,4 +1,4 @@
-package Introduction;
+package ObjectsAndClasses;
 
 public class WrapperExample {
     public static void main(String[] args) {
