@@ -3,7 +3,7 @@ package Encapsulation;
 public class O3_Example_Abstraction {
 
     // in case of Encapsulation first set then get name
-    
+
     public static void main(String[] args)
     {
         //creating instance of the encapsulated class
