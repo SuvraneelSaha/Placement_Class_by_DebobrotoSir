@@ -15,7 +15,7 @@ public class O2_Example_Of_Package {
     so whenever we use Arraylist Class we need to need import
 
     java.util.ArrayList;
-    
+
 
      */
 }
