@@ -7,7 +7,7 @@ public class Assignment {
     if sorting is needed in array
     // then use Arrays.sort(arr);
     // no pakami
-    
+
 
      */
 }
