@@ -11,7 +11,8 @@ public static void main(String args[]){
     StudentNew s3 = new StudentNew(333,"Sonoo");
     //calling display method
     s1.display();
-    StudentNew.change();
+    StudentNew.change(); // this is where the static method is called
+
     s2.display();
     s3.display();
 }
