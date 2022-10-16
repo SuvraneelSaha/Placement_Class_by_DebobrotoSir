@@ -15,7 +15,7 @@ public class O5 {
         // in the case of primitive data types
 
         // the value gets changed inside the function but outside the function that value doesnt gets
-        // changed it happens inside the scope of the function only , not outside of the function . 
+        // changed it happens inside the scope of the function only , not outside of the function .
 
 
         if(n==Operations(n))
