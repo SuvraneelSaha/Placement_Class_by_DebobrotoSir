@@ -22,7 +22,7 @@ public class O16 {
 
         System.out.println("Is Anagram "+isAnagram(arr1,arr2));
 
-        
+
 
 
 
