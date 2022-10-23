@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// ankit er code
 public class O8 {
     public static void main(String[] args)
     {
