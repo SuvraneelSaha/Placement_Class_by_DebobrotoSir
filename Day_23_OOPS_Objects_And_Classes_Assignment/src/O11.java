@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class O11 {
     // Parking Lot :
     public static void main(String[] args) {
-        
+
         ParkingLot obj = new ParkingLot();
         obj.Input();
         obj.calculate();

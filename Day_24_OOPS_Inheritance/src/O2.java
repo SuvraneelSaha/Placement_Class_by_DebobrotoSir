@@ -24,7 +24,7 @@ public class O2 {
 class ABC
 {
     int x = 10 ;
-    // class may contain constructor variables and functions ;
+    // classes may contain constructor variables and functions ;
     void meth()
     {
         System.out.println("HI "+x);

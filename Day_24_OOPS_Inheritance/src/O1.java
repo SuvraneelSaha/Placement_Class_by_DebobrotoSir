@@ -17,7 +17,7 @@ Constructor
 Account mane ei object
 
 
-Why we use construcor
+Why we use construtor
 so that we can take input during runtime
 
 whereas we can also take input from other functions

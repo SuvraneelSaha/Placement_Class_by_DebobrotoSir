@@ -50,6 +50,10 @@ class B1 extends A1
     {
         super.meth();
         System.out.println("hello "+super.x);
+        // super keyword means that we are using the Super Class
+        // and adding a dot after super meaning we are using the attributes of the super class
+        // and without any dot means constructor
+
 
     }
 

@@ -19,7 +19,8 @@ class AB1
 
 
 // whenever there is concept of inheritance
-// SEC C from isc theory
+// SEC C from isc theory -- assignment
+
 class CD1 extends AB1
 {
     int y ;
@@ -27,7 +28,7 @@ class CD1 extends AB1
     {
         super(xxx);
         y=yyy;
-         // call to the super keyword must be the first statemnt
+         // call to the super keyword must be the first statement
         // in the constructor
         System.out.println("Inside CD1 class");
         // super - var parent class var

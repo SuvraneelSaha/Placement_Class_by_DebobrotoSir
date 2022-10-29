@@ -16,7 +16,7 @@ class A
     }
 }
 
-class B
+class B extends A
 {
     int x = 20;
     void meth()
