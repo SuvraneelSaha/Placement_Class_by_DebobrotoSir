@@ -5,7 +5,7 @@ public class O5 {
     public static void main(String[] args) {
         Highest obj = new Highest(5,10); // parameterized Constructor by default
         // Jeta Bhetore aache Constructor sob kaaj kore debe
-        
+
 
        obj.Find();
        obj.Display();
