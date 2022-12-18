@@ -11,10 +11,18 @@ public class O4 {
 
         String s = "12";
         System.out.println(Integer.parseInt(s)+1);
+        // converting String to Interger
+        // as both are objects - string class and the Integer class objects are both objects
+
 
         int c = 3213;
         String s1 = c +"";
         System.out.println(s1.length());
+        // interger can be converted to String by using the above way
+        // or we can use these
+        s1=Integer.toString(c);
+        System.out.println(s1+1);
+
 
 
     }
