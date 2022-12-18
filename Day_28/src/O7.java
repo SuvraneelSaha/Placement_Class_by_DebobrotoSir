@@ -9,7 +9,7 @@ public class O7 {
     }
     // Task --
     // Revision - Next Day Interview Session
-    
+
     /*
     ex - 1
     // Square
