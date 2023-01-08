@@ -6,12 +6,14 @@ public class Main {
         bank accnt[] = new bank[0];
         // we will be creating a dynamic array approach
         boolean loop = true;
-        while (loop) {
-            System.out.println("Press 1 to sign in IN , Press 2 for sign up");
+        while (loop)
+        {
+            System.out.println("Press 1 to sign in IN , Press 2 for sign up, Press 3 to Exit");
             int ch = in.nextInt();
 
 
-            if (ch == 1) {
+            if (ch == 1)
+            {
                 System.out.println("Enter your userid");
                 String u = in.next();
                 int usid = Integer.parseInt(u.substring(4));
@@ -46,18 +48,34 @@ public class Main {
 
                             int ch1 = in.nextInt();
 
-                            if (ch1 == 1) {
+                            if (ch1 == 1)
+                            {
+                                System.out.println("Balance Enquiry");
+                                accnt[usid].balance_enquiry();
 
-                            } else if (ch1 == 2) {
 
-                            } else if (ch1 == 3) {
+                            }
+                            else if (ch1 == 2)
+                            {
+                                System.out.println("Enter the amount you want to submit");
+                                int amt = in.nextInt();
+                                accnt[usid].submit(amt);
+
+
+                            }
+                            else if (ch1 == 3)
+                            {
                                 System.out.println("Enter the amount you want to withdraw");
                                 int amt = in.nextInt();
                                 accnt[usid].withdraw(amt);
 
-                            } else if (ch1 == 4) {
+                            }
+                            else if (ch1 == 4)
+                            {
                                 l = false;
-                            } else {
+                            }
+                            else
+                            {
                                 System.out.println("Password Mismatch , Try again");
                             }
                         }
@@ -65,8 +83,6 @@ public class Main {
                     }
                 }
             }
-
-
             else if(ch==2)
             {
                 System.out.println("Enter Your name");
