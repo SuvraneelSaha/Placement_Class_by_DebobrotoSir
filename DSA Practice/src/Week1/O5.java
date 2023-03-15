@@ -2,7 +2,7 @@ package Week1;
 // ransom Note leetcode - final ans
 public class O5 {
     public static void main(String[] args) {
-        System.out.println(canConstruct("aaab","aa"));
+        System.out.println(canConstruct("aaa","aab"));
 
     }
 
@@ -30,10 +30,12 @@ public class O5 {
 
         for(char ch : ransomNote.toCharArray())
         {
-            if(--char_count[ch-'a']<0)
+            if(char_count[ch-'a']<=0)
             {
                 return false;
             }
+            char_count[ch-'a']--;
+
         }
         return true;
 
