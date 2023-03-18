@@ -9,7 +9,7 @@ public class O9 {
             char ch = s.charAt(i);
             if(ch!=' ')
             {
-                word = ch+word;
+                word = ch+word; // a ia dia ndia India
             }
             else
             {

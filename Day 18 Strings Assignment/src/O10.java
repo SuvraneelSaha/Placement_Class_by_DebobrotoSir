@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// enter a string and print the size of each word
 public class O10 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
