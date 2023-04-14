@@ -1,5 +1,6 @@
+package ShabNam_Milestone2_Mindtree;
 
-    import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 

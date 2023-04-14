@@ -1,5 +1,6 @@
+package ShabNam_Milestone2_Mindtree;
 
-    import java.util.Scanner;
+import java.util.Scanner;
     public class DivideByZeroException
     {
         public static void main(String[] args)

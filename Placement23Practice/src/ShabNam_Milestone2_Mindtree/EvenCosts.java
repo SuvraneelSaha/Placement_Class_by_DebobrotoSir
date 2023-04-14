@@ -1,3 +1,5 @@
+package ShabNam_Milestone2_Mindtree;
+
 import java.util.*;
 import java.util.stream.Collectors;
 

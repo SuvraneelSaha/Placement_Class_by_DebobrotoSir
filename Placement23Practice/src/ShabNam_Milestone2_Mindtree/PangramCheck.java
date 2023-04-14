@@ -1,3 +1,5 @@
+package ShabNam_Milestone2_Mindtree;
+
 import java.util.*;
 public class PangramCheck{
     public static void main(String[] args){
