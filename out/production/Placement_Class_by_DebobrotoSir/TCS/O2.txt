@@ -1,0 +1,299 @@
+1st session 
+Vishal Barad our Tech Head of the TCS Xp Program 
+
+Content and curriculum will be discussed in this session 
+
+mentimeter website for votes of the opinions 
+
+
+Streams in Explore - Java and Python 
+also .net  and also it ifrastructure services 
+
+these are foundation streams 
+SQL and also PL SQL 
+
+html css javascript 
+
+in sql part python - mysql and for java - oracle 
+
+can we go for both - yes you can 
+its your choice but dont jump around 
+stick to one 
+1st focus on 1 programming language 
+in the 1st proctored test - go for java 
+then in the 2nd proctored test - go for python track 
+
+What is learning 
+your persception of learning vs explore learning 
+
+learning happens by performing hands on problems 
+and building solutions to your problems 
+
+can you apply the knowledge to real world problems to solve 
+what you can apply to solve real time problems 
+
+how can you reach there 
+
+it can happen only through practicing 
+practice more and more 
+unix , sql , python , java 
+
+just refering the content , pdf wathcing 
+
+go for the practical
+engage your hands and your brain to solve it 
+crack those errors 
+and build solns 
+
+its all about hands on 
+less and limited theory and lots of hand on training 
+
+Java - 
+data types 
+varaible decelration 
+conditions 
+iterations 
+little oops 
+
+python -  
+methods funtions 
+tuples 
+
+
+in academics you need in depth 
+in case of real life - you need lots of hands on and less on theory 
+
+keep that in mind 
+
+For engagement - minimum 2 webinar on technology webinar 
+
+next week onwards 
+
+stay tuned for the mails 
+
+Evening - check community in TCS 
+
+Hackathons and coding challenges are very good to train and make you vigilent 
+
+python hackathon is present on friday coming friday 
+
+participation is must 
+
+there is nothing to loose 
+
+doesnt matter if the score is 0 learning and hiit is important 
+
+You are there to validate yourself 
+
+30 th dec - python programming hackathon also check the announcements 
+
+
+Courses - 
+UNIX 
+UI - js , html and css 
+Python 
+Java 
+SQL 
+PL - SQL 
+
+
+
+
+hands on integrated - 
+integrated hackkerrank platform 
+with TCS 
+
+ion hands on itself - tcs environment 
+nqt hands on part 
+just like nqt exam type 
+
+also assessments are also present - just like a proctored assessment 
+
+any time according to your conveniences 
+
+Devote every day to learning at least twice learn  it will compound and give you benefits 
+
+tuesday and wednesday - technical sessions 
+
+friday - python hackathon event 
+
+What is the best learning approach 
+what to do how to do ?
+
+1st assessment - 18 - 20 of Janauary 
+every 2 or 3 weeks assesement will be there 
+IPA exams search ?
+
+ex - java - candidate scored 55+ but <80 
+
+then he/she decided focus on python in the 2nd IPA - in Python attempt 
+score was 30 or 40 < 55 
+
+so java score is better 
+
+in 3rd attempt lets try again in java IPA exam <50 
+Now what will Happen 
+
+Lets again go for python 4th time - 80+ in python 
+
+good excited - 
+
+now again 5th time java - score < 55 
+it is month of april what will happen 
+
+now you have to join TCS what will happen 
+
+how tcs will consider - it will consider the best score - python 80+ will win 
+assosiative will get 60 k + incentive 
+
+if 55+ java - 40k bonus 
+
+incentive will be tagged to the best score 
+
+go with full confidence and go out and give your best 
+
+
+50 % on coding part and 50% on theory 
+bussines skills communications ui , python , java everything 
+
+
+SOO Many things to learn - 
+im confused what to do what to learn 
+
+eveything is given to me im confused - if you are confused 
+you are on a right track 
+
+what sir will share it will make sense to us 
+
+remlax take remlax 
+
+EX - Java track 
+
+java - multiple courses 
+
+techincal recordings 
+or in practical hands on 
+or in pdfs and ppts 
+
+go and open in any one of the course 
+
+now it will makes sense 
+
+But I still dont have an answer 
+
+Morning to evening - how can i DO this 
+
+which one to do and how to solve each and go through every step 
+
+Our curriculum is even less than the curriculum than < class 11 12 highschool 
+
+clas 11 12 will learn easily 
+
+you also can complete it very easily - with flying colours 
+95+ 
+
+lightweight baby 
+
+again coming to the problem 
+
+what is the best learning approach 
+
+you gain the expertise to solve the problem 
+
+by practicing more and more 
+
+How to practice and what do you need for practicing 
+
+you dont need too many knoweldege and throey 
+
+you only need some knowledge and 
+for every topic 
+topic by topic recording is available 
+
+Those Recording is available 
+
+take the 1st recording 
+
+whatever is covered 
+ you should practice that in parrel along with the faculty who is explaining 
+ it may take quite time 
+ but the concept will get solidified 
+ you can do by your own 
+
+only if you want to know more about a concept - go more into the content ie pds and ppts 
+
+90 mins + 90 mins 
+
+within 2 and half weeks you can complete all 
+
+then jump into the hands on training section 
+
+1st lean the Technical Recording 
+
+the above approach is the best and it has beem proven and it is practiced by Vishal Himself 
+above approach is confident 
+Linked - vishal 
+
+always take challenge - prepare and deliver 
+Shahid da also 
+
+Less is more in building expertise 
+
+Vishal is soo confident that he can gain knowledge and expertise on a very new technology by 
+following this approach which he made by himself 
+
+
+What about you are interested in advanced technology - ASCEND certification courses 
+
+direct stair for the digital 
+
+also ASCEND hackathons is important 
+
+External certifications is importnat - AWS , AZURE , Oracle , microsoft cloud computing 
+all the list will be given to you and if you complete the certifications - you will reimbursed that amount to you 
+
+Azure certifications is very important - Azure Fundamental certificate 
+
+take up certification of your choice 
+
+March - NQT - for digital 
+
+offer can be upgraded to digital 
+
+start preparing right now for the digital - sir will show that 
+
+in the month you appear for digital - you didnt qualified 
+
+Wings 1 will give you chances to upgrade from TCS Ninja to Digital 
+
+Wings 1 assessment is also there 
+
+practice and start implement and dedicate 1 hour every day for learning 
+
+you are doing for yourself - you are increasing your valuation based on your expertise 
+
+Last chance - Innovator TCS 
+
+we do have such examples - from ninja then digital then innovator 
+
+Exceptional career is present in TCS chances is also present 
+
+Expertise you will gain from practicing and being ready and being ahead of the curve 
+will help you to increse your valuations 
+
+
+TCS Next Step - then tcs learning and courses - do the technical learnings 
+then if needed then go for ppts and PDFs 
+
+6 jan session for post offer sessions - project account on SAP 
+
+things are uncertain - get married to perspicacious and being ready always 
+
+
+lets go buoissssss
+lightweight baby 
+
+
+
+
+

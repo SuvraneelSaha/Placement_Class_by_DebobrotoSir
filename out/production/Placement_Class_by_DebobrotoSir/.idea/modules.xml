@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day2_Assignment_Starting_IF/2.2NestedIF.iml" filepath="$PROJECT_DIR$/Day2_Assignment_Starting_IF/2.2NestedIF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA Practice/DSA Practice.iml" filepath="$PROJECT_DIR$/DSA Practice/DSA Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 15_Characters/Day 15_Characters.iml" filepath="$PROJECT_DIR$/Day 15_Characters/Day 15_Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 17 OOPS/Day 17 OOPS.iml" filepath="$PROJECT_DIR$/Day 17 OOPS/Day 17 OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 18 Strings Assignment/Day 18 Strings Assignment.iml" filepath="$PROJECT_DIR$/Day 18 Strings Assignment/Day 18 Strings Assignment.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day14/Day14.iml" filepath="$PROJECT_DIR$/Day14/Day14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day15_Assignment_Characters/Day15_Assignment_Characters.iml" filepath="$PROJECT_DIR$/Day15_Assignment_Characters/Day15_Assignment_Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day16_Strings_Questions/Day16_Strings_Questions.iml" filepath="$PROJECT_DIR$/Day16_Strings_Questions/Day16_Strings_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day19 String Functions/Day19 String Functions.iml" filepath="$PROJECT_DIR$/Day19 String Functions/Day19 String Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1_Assignment_Basic_Questions/Day1_Assignment_Basic_Questions.iml" filepath="$PROJECT_DIR$/Day1_Assignment_Basic_Questions/Day1_Assignment_Basic_Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2/Day2.iml" filepath="$PROJECT_DIR$/Day2/Day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2_AssignmentPart2_Nested_IF/Day2_AssignmentPart2_Nested_IF.iml" filepath="$PROJECT_DIR$/Day2_AssignmentPart2_Nested_IF/Day2_AssignmentPart2_Nested_IF.iml" />
@@ -36,9 +38,29 @@
       <module fileurl="file://$PROJECT_DIR$/Day8_Assignment_For_SpecialNumbers/Day8_Assignment_For_SpecialNumbers.iml" filepath="$PROJECT_DIR$/Day8_Assignment_For_SpecialNumbers/Day8_Assignment_For_SpecialNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day9/Day9.iml" filepath="$PROJECT_DIR$/Day9/Day9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day9_Assignment/Day9_Assignment.iml" filepath="$PROJECT_DIR$/Day9_Assignment/Day9_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_20 String Functions/Day_20 String Functions.iml" filepath="$PROJECT_DIR$/Day_20 String Functions/Day_20 String Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_21 String Functions/Day_21 String Functions.iml" filepath="$PROJECT_DIR$/Day_21 String Functions/Day_21 String Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_22 Methods/Day_22 Methods.iml" filepath="$PROJECT_DIR$/Day_22 Methods/Day_22 Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_23 OOPS_Objects_And_Classes/Day_23 OOPS_Objects_And_Classes.iml" filepath="$PROJECT_DIR$/Day_23 OOPS_Objects_And_Classes/Day_23 OOPS_Objects_And_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_23_Methods_Assignment/Day_23_Methods_Assignment.iml" filepath="$PROJECT_DIR$/Day_23_Methods_Assignment/Day_23_Methods_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_23_OOPS_Objects_And_Classes_Assignment/Day_23_OOPS_Objects_And_Classes_Assignment.iml" filepath="$PROJECT_DIR$/Day_23_OOPS_Objects_And_Classes_Assignment/Day_23_OOPS_Objects_And_Classes_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_24_OOPS_Inheritance/Day_24_OOPS_Inheritance.iml" filepath="$PROJECT_DIR$/Day_24_OOPS_Inheritance/Day_24_OOPS_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_24_OOPS_Inheritance_Assignment/Day_24_OOPS_Inheritance_Assignment.iml" filepath="$PROJECT_DIR$/Day_24_OOPS_Inheritance_Assignment/Day_24_OOPS_Inheritance_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_25_OOPS_Super_Final_Stack/Day_25_OOPS_Super_Final_Stack.iml" filepath="$PROJECT_DIR$/Day_25_OOPS_Super_Final_Stack/Day_25_OOPS_Super_Final_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_26/Day_26.iml" filepath="$PROJECT_DIR$/Day_26/Day_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_27_OOPS/Day_27_OOPS.iml" filepath="$PROJECT_DIR$/Day_27_OOPS/Day_27_OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_28/Day_28.iml" filepath="$PROJECT_DIR$/Day_28/Day_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_29_OOPS_AbstractClass_WrapperClass_DynamicMethodDispatch/Day_29_OOPS_AbstractClass_WrapperClass_DynamicMethodDispatch.iml" filepath="$PROJECT_DIR$/Day_29_OOPS_AbstractClass_WrapperClass_DynamicMethodDispatch/Day_29_OOPS_AbstractClass_WrapperClass_DynamicMethodDispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_30_OOPS_CallbyValue_CallbyReference_ArrayofObjects/Day_30_OOPS_CallbyValue_CallbyReference_ArrayofObjects.iml" filepath="$PROJECT_DIR$/Day_30_OOPS_CallbyValue_CallbyReference_ArrayofObjects/Day_30_OOPS_CallbyValue_CallbyReference_ArrayofObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_31_Array_of_Objects/Day_31_Array_of_Objects.iml" filepath="$PROJECT_DIR$/Day_31_Array_of_Objects/Day_31_Array_of_Objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interview Questions/Interview Questions.iml" filepath="$PROJECT_DIR$/Interview Questions/Interview Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrix_Intermediate/Matrix_Intermediate.iml" filepath="$PROJECT_DIR$/Matrix_Intermediate/Matrix_Intermediate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS Comm Classroom/OOPS Comm Classroom.iml" filepath="$PROJECT_DIR$/OOPS Comm Classroom/OOPS Comm Classroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS JavaTPoint/OOPS JavaTPoint.iml" filepath="$PROJECT_DIR$/OOPS JavaTPoint/OOPS JavaTPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Placement23Practice/Placement23Practice.iml" filepath="$PROJECT_DIR$/Placement23Practice/Placement23Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Placement_Class_by_DebobrotoSir.iml" filepath="$PROJECT_DIR$/.idea/Placement_Class_by_DebobrotoSir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Revision_Jan/Practice_Revision_Jan.iml" filepath="$PROJECT_DIR$/Practice_Revision_Jan/Practice_Revision_Jan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
     </modules>
   </component>
 </project>
