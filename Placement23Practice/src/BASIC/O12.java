@@ -81,4 +81,4 @@ public class O12 {
 // Man your brain power got weak , just due to victory .
 // Peace has weakened you my friend
 // time to prepare for the war
-// so that when the war comes i can be ready 
+// so that when the war comes i can be ready
