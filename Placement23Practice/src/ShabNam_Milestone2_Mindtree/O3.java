@@ -1,3 +1,5 @@
+package ShabNam_Milestone2_Mindtree;
+
 class AgeNotWithinRangeException extends Exception {
     public AgeNotWithinRangeException(String errorMessage) {
         super(errorMessage);
