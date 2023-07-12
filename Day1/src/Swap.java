@@ -3,10 +3,13 @@ public class Swap {
         int a = 10 ;
         int b = 5 ;
         int c;
+        System.out.printf("a is %d and b is %d",a,b);
+        System.out.println();
         c=a;
         a=b;
         b=c;
-        System.out.printf(" a is %d and b is %d",a,b);
+        System.out.println("Updated");
+        System.out.printf("a is %d and b is %d",a,b);
 
     }
 }

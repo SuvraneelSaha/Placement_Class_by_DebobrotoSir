@@ -5,8 +5,9 @@ public class Operations {
         Scanner in = new Scanner(System.in);
         System.out.println("please enter the 1st num ");
         int a = in.nextInt();
+        System.out.println("Please enter the 2nd num:");
         int b = in.nextInt();
-        double c = in.nextDouble();
+        double c ;
         c= a/b ;
         System.out.println(c);
     }

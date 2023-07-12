@@ -5,8 +5,9 @@ public class Power {
         Scanner in = new Scanner(System.in);
         System.out.println("please enter the 1st num ");
         int a = in.nextInt();
+        System.out.println("Please enter the 2nd num ");
         int b = in.nextInt();
-       double c = Math.pow(a,b);
+        double c = Math.pow(a,b);
         System.out.println(c);
         int d = (int)(Math.pow(a,b)); // type casting
         System.out.println(d);
@@ -14,6 +15,7 @@ public class Power {
 
     }
 }
+// Math.pow(a,b) means a^b;
 // why we use double in case of power
 // as because the power can be in fractions
 // 1.5
